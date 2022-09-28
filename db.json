@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "olala" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id": "1",
+      "connections": [1, 2, 3],
+      "last_used": 1,
+      "last_ping": "2012-04-23T18:25:43.511Z",
+      "paused": false,
+      "used_count": 10,
+      "time_spent": "2022-09-23T18:25:43.511Z",
+      "active_connection_id": 10,
+      "active": true,
+      "active_since": "2022-09-23T18:25:43.511Z",
+      "version": "11.1",
+      "avg_per_transaction": "2022-09-23T18:25:43.511Z",
+      "capabilities": "capabilities",
+      "rate": 1.2
+
 }
